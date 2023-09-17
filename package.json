@@ -1,0 +1,26 @@
+{
+  "name": "runo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShashiS07/runo.git"
+  },
+  "author": "Shashi Shekhar Singh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ShashiS07/runo/issues"
+  },
+  "homepage": "https://github.com/ShashiS07/runo#readme",
+  "dependencies": {
+    "bcrypt": "^5.1.0",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.0",
+    "mongoose": "^6.8.2",
+    "nodemon": "^2.0.20"
+  }
+}
